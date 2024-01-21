@@ -1,0 +1,4 @@
+#resim {
+    width: 100px; /* İstenilen genişlik değeri */
+    height: auto; /* Genişliğe oranlı olarak yükseklik ayarlamak için */
+}
